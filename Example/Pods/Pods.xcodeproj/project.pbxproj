@@ -32,24 +32,24 @@
 /* Begin PBXFileReference section */
 		0051F9FAAF3F92E1520EB343CFCFBC57 /* Pods-SwiftFireworks_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SwiftFireworks_Tests-resources.sh"; sourceTree = "<group>"; };
 		0EF5788DA5056A6C8610C615165F89AB /* Pods-SwiftFireworks_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SwiftFireworks_Tests-umbrella.h"; sourceTree = "<group>"; };
-		10A968476508E5A8A1B4829D4DDA06B9 /* SwiftFireworks.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SwiftFireworks.framework; path = SwiftFireworks.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		10A968476508E5A8A1B4829D4DDA06B9 /* SwiftFireworks.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftFireworks.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		16A9D2A2A1D63B895D4C3ADFCA283400 /* SwiftFireworks-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftFireworks-umbrella.h"; sourceTree = "<group>"; };
-		2A50662E5333A57B652F368929E15D84 /* Pods-SwiftFireworks_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-SwiftFireworks_Example.modulemap"; sourceTree = "<group>"; };
+		2A50662E5333A57B652F368929E15D84 /* Pods-SwiftFireworks_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-SwiftFireworks_Example.modulemap"; sourceTree = "<group>"; };
 		337C9B01E6142BBCA930C43FF358917D /* Pods-SwiftFireworks_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SwiftFireworks_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		38B0EBF71615024CC97E4E825AE2C556 /* SwiftFireworks.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftFireworks.xcconfig; sourceTree = "<group>"; };
 		4075BFAABC2FB9B9414C5A22CD18F293 /* Pods-SwiftFireworks_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SwiftFireworks_Example.release.xcconfig"; sourceTree = "<group>"; };
 		443EF894D2BC66F2DF1FF4460BB8FDEA /* Pods-SwiftFireworks_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SwiftFireworks_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		465C50AD59BDB08FCF77448A143B51F7 /* Pods-SwiftFireworks_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SwiftFireworks_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		472C33AE65035E6ABE5789FF76B4682D /* Pods-SwiftFireworks_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SwiftFireworks_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		5502D891BE8F63AA3E412ABF2693718A /* Pods_SwiftFireworks_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SwiftFireworks_Example.framework; path = "Pods-SwiftFireworks_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5E7AE39130E913EC73238F8636547DCC /* Pods_SwiftFireworks_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SwiftFireworks_Tests.framework; path = "Pods-SwiftFireworks_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5502D891BE8F63AA3E412ABF2693718A /* Pods_SwiftFireworks_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftFireworks_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E7AE39130E913EC73238F8636547DCC /* Pods_SwiftFireworks_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftFireworks_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		6D3142BBA55B98AC0620DCEAD3137BF9 /* Pods-SwiftFireworks_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SwiftFireworks_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		72F013349F7DD0B4E4633DC984919726 /* Pods-SwiftFireworks_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SwiftFireworks_Tests-dummy.m"; sourceTree = "<group>"; };
 		7BF43BBCC6D9C9FD85C80F72FEE5D0E2 /* Pods-SwiftFireworks_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SwiftFireworks_Example-resources.sh"; sourceTree = "<group>"; };
 		7F037FE402B3CF80CF3836BF9AF5C203 /* Pods-SwiftFireworks_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SwiftFireworks_Example-umbrella.h"; sourceTree = "<group>"; };
 		8396B5BF2187E165499F98BC033AEB36 /* Pods-SwiftFireworks_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SwiftFireworks_Example-frameworks.sh"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A0794075D929E3039E1710B1506C2C65 /* Pods-SwiftFireworks_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SwiftFireworks_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		A09D94011AD209B7A47180869D7D3810 /* SwiftFireworks-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwiftFireworks-dummy.m"; sourceTree = "<group>"; };
 		AD8C320296D803BBBB8D6897E5EC1AE2 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -59,9 +59,9 @@
 		C35A306F6467F458B94DC7E46393045B /* SwiftFireworks-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftFireworks-prefix.pch"; sourceTree = "<group>"; };
 		C948E0FC020D3C9A36B45D99BF77C0C6 /* SwiftFireworks.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SwiftFireworks.swift; sourceTree = "<group>"; };
 		CAD42D58A085FBA690DF399B808497E5 /* Pods-SwiftFireworks_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SwiftFireworks_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		EF601E8B417F69F84A94FAD4DAA304C8 /* SwiftFireworks.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SwiftFireworks.modulemap; sourceTree = "<group>"; };
+		EF601E8B417F69F84A94FAD4DAA304C8 /* SwiftFireworks.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = SwiftFireworks.modulemap; sourceTree = "<group>"; };
 		FAA833924ABA7807A814D94BAD72BA1E /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FBBDD7224DC06425380288FE60FB9C0F /* Pods-SwiftFireworks_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-SwiftFireworks_Tests.modulemap"; sourceTree = "<group>"; };
+		FBBDD7224DC06425380288FE60FB9C0F /* Pods-SwiftFireworks_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-SwiftFireworks_Tests.modulemap"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,7 +97,6 @@
 			children = (
 				7C76E9773DF7EA7EC2C1889D1135471E /* Classes */,
 			);
-			name = SwiftFireworks;
 			path = SwiftFireworks;
 			sourceTree = "<group>";
 		};
@@ -133,7 +132,6 @@
 			children = (
 				C948E0FC020D3C9A36B45D99BF77C0C6 /* SwiftFireworks.swift */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -313,7 +311,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 1010;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -456,23 +454,33 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_DEBUG=1",
@@ -504,22 +512,32 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_RELEASE=1",
 					"$(inherited)",
@@ -533,6 +551,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
 				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
 				SYMROOT = "${SRCROOT}/../build";
 				VALIDATE_PRODUCT = YES;
 			};
